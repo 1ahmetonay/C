@@ -14,7 +14,5 @@ Bu proje, otomobil satışlarına ilişkin çeşitli istatistikleri hesaplamak i
 
 Proje, kullanıcıya bir menü sunar ve kullanıcının istediği istatistikleri hesaplar. Kullanıcı, çıktıyı görüntülemek için belirli bir seçeneği seçebilir.
 
-## Katkıda Bulunma
 
-Bu projeye katkıda bulunmak isterseniz, lütfen önce Katkıda Bulunma kılavuzunu okuyun.
 
